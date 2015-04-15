@@ -42,7 +42,7 @@ We appreciate all contributions, ideas, critique, and help.
 
 = More info? =
 
-Please check out the [WPGlobus Website](http://www.wpglobus.com/featured-images) for additional information.
+Please check out the [WPGlobus Website](http://www.wpglobus.com/add-ons/featured-images/) for additional information.
 
 == Screenshots ==
 
